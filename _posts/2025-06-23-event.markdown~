@@ -1,15 +1,14 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "An Eye Contact Experiment"
 layout: post
-date: 2016-01-23 22:10
+date: 2025-06-23 19:30
 tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: assets/images/eye-contact.png
 headerImage: true
 projects: true
-hidden: true
+hidden: false
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
-author: johndoe
+category: projects
 externalLink: false
 ---
 
