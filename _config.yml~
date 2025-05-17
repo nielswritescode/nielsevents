@@ -61,7 +61,7 @@ authors:
 width: normal
 
 # some
-future = true
+future: true
 
 # if you don't need projects, comment the *projects* configs below
 #projects: true
