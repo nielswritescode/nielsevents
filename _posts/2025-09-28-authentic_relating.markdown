@@ -15,7 +15,7 @@ description: Relating
 
 ## What, where and when?
 
-From 13.00 - 17.00 on 28th of September at REC Room G2.01
+From 13.00 - 17.00 on 28th of September at REC Room G2.01.
 
 A facilitated space for exploring deeper, real connection
 through platonic authentic relating games.
