@@ -24,6 +24,10 @@ If you don't know what AR is, there are many great [resources](https://authentic
 Our interpretation of it currently tends to be a bit more on the playful side, although there
 can be a lot of depth to that.
 
+Feel free to contact us by e-mail if you have any questions. 
+
+> nielsevents@proton.me
+
 ## Rules
 
 The space is experimental. We are just starting out with hosting this type 
