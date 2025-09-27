@@ -15,7 +15,9 @@ description: Relating
 
 ## What, where and when?
 
-From 13.00 - 15.30 on 28th of September. Location will likely be Science Park, but we're still exploring options. Check this page for updates or sign up to be automatically notified.
+From 13.00 - 15.30 on 28th of September. 
+
+Location: Room A1.24, Science Park A Amsterdam
 
 A facilitated space for exploring deeper, real connection
 through platonic authentic relating games.
