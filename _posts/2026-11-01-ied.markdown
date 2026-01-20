@@ -1,0 +1,18 @@
+---
+title: "Meditation, Individual Movement & Sharing"
+layout: post
+date: 2025-09-28 13:00
+image: /assets/images/eye-contact.png
+headerImage: true
+tag:
+- connection
+- meditation
+- movement
+category: blog
+#author: nielsvalent
+description: IED
+---
+
+## What, where and when?
+
+A simple space to take a break, explore movement and connect with others.
