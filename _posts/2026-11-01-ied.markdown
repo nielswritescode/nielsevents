@@ -1,5 +1,5 @@
 ---
-title: "Simple Spaces: Experiental Dance & Sharing"
+title: "Simple Spaces: Experiential Dance & Sharing"
 layout: post
 date: 2026-01-29 15:00
 image: /assets/images/eye-contact.png
@@ -8,6 +8,8 @@ tag:
 - connection
 - meditation
 - movement
+- sharing
+- listening
 category: blog
 #author: nielsvalent
 description: IED
@@ -43,7 +45,7 @@ _We take a breath and get ready for the rest of our day._
 ## Cost
 This event is unconditionally given. That means it's a gift to the world from me, and I have no expectation of reciprocity (If I do somehow, please contact me with your feedback.)
 
-That doesn't mean I don't welcome energy exchange. I'll lovingly accept your gift of food, money, massage or something else.
+That doesn't mean I don't welcome energy exchange. I'll lovingly accept your gift of food, money, massage. Teach or lend me your skills, offer me to use your canoe during summer or whatever else you come up with 😇. 
 
 ## Mentions
 - I'm experimenting with formats and I would love your feedback. Knowing what worked for you and what didn't will help me in shaping these spaces. It is especially helpful for me to know how you felt during certain moments.
@@ -51,11 +53,16 @@ That doesn't mean I don't welcome energy exchange. I'll lovingly accept your gif
 - After the event the CREA cafe will be the designated hangout space.
 - For this event the definition of dance will be: If you move, you are dancing. And if you breathe, you are moving.
 - Please be 5 minutes early (so 14.40).
+- If possible, bring a yoga mat or meditation cushion to sit on during the sharing (I'll bring a few as well).
 
 ## Signup (not mandatory)
 
 You can sign up to make a commitment for yourself and to help me out in the organizing process (+ receive last minute updates & aftercare). But I will always have spots for the spontaneous and non-digital beings :). 
 
 [Google Forms Signup](https://forms.gle/oW1auhFUmorK6Mtx5)
+
+## Contact
+
+nielsevents@proton.me
 
 
