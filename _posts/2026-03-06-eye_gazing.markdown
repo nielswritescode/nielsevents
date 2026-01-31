@@ -21,7 +21,7 @@ The event will be between **18.30 and 23.00** on the **6th of March 2026** at **
 
 Address: Zeeburgerdijk 265, 1095 AC Amsterdam
 
-Please read the entire page before you sign up.
+Please read the entire page before you attend the event.
 
 ## Timetable
 
@@ -61,15 +61,23 @@ And again. Please don't feel pressured to donate. I wish to invert the dynamic. 
 
 - It is possible to join the event at 4 different times: 18.30, 19.00, 19.30 or 20.00. There will be spaceholders welcoming you at the door to briefly check in & introduce the event. Joining outside of these times will not be possible to minimize interruptions. Leaving the event is possible at any time.
 
-- The eyegazing is platonic. Please do not use it to flirt / date / express sexual energy on purpose. If someone strikes your interest, feel free to approach them in the hangout. ???
+- The eyegazing is platonic. Please do not use it to flirt / date / express sexual energy on purpose. If someone strikes your interest, feel free to approach them in the hangout.
 
-- The space is non-verbal (excluding the hangout).There are some exceptions to this (there is a seperate room avilable for conversations (at low volume)):
-    - You have a question for me or the other spaceholders. Or you just need to talk.
+- The main space is non-verbal (excluding the hangout). There will be a small seperate room available where talking is allowed (although at a low volume). It is meant mostly as a space to ground yourself. If the non-verbal in combination with eyegazing starts feeling overwhelming and you would really benefit from having a small conversation to get back to reality. For this purpose, feel free to approach anyone sitting in the room or ask one of the spaceholders to be a listening ear for you. 
+
+Other exceptions to the non-verbal rule:
+
     - You had a deep session with someone and want to ask for verbal consent for a hug.
+    - You have a practical question for me or the spaceholders.
 
-- This kind of event can be INTENSE. There will be a team of lovely spaceholders with different levels of experience in holding space who will be able to catch alot, but we are not professionals in any way.
-We expect that you take care of your own boundaries and take responsability for your own experience. 
+- This kind of event can be INTENSE. There will be a team of lovely spaceholders with different levels of experience in holding space who will be able to catch alot, but we are not professionals.
+We expect that you take care of your own boundaries and take responsibility for your own experience. 
 
 ## Potluck Snacks
 Feel free to bring some snacks to the event to share. Something like grapes, nuts or chocolate usually do very well. 
 
+## Sign Up [not mandatory]
+
+You can sign up to make a commitment for yourself and to help me out in the organizing process + receive last minute updates & aftercare. But there will be spots for the spontaneous and non-digital beings as well.
+
+[Google Forms Signup](https://forms.gle/iLz5yd4e5q82mBTb8)
