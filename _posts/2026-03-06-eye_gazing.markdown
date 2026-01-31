@@ -59,7 +59,7 @@ And again. Please don't feel pressured to donate. I wish to invert the dynamic. 
 
 ## Rules & Guidelines
 
-- It is possible to join the event at 4 different times: 18.30, 19.00, 19.30 or 20.00. There will be spaceholders welcoming you at the door to briefly check in & introduce the event. Joining outside of these times will not be possible to minimize interruptions. Leaving the event is possible at any time.
+- It is possible to join the event at 4 different times: between 18.20-18.30, 18.50-19.00, 19.20-19.30 or 19.50-20.00. There will be spaceholders welcoming you at the door to briefly check in & introduce the event. Joining outside of these times will not be possible to minimize interruptions. Leaving the event is possible at any time.
 
 - The eyegazing is platonic. Please do not use it to flirt / date / express sexual energy on purpose. If someone strikes your interest, feel free to approach them in the hangout.
 
@@ -72,19 +72,28 @@ And again. Please don't feel pressured to donate. I wish to invert the dynamic. 
     - You have a practical question for me or the spaceholders.
 
     - This kind of event can be INTENSE. There will be a team of lovely spaceholders with different levels of experience in holding space who will be able to catch alot, but we are not professionals.
-We expect that you take care of your own boundaries and take responsibility for your own experience. 
+
+- We expect that you take care of your own boundaries and take responsibility for your own experience. 
 
 ## Potluck Snacks 
 Feel free to bring some snacks to the event to share. Something like grapes, nuts or chocolate usually do very well. 
 
 ## Mentions & Support
 
-- Do you have (in your network) a bigger amount(10+) of meditation cushions / yoga mats that could be used for the event (for free)? Please contact me. 
+- Do you have (in your network) a bigger amount (10+) of meditation cushions / yoga mats that could be used for the event (for free)? Please contact me. 
 
 - Additionally, if you would be willing to help transport these materials to and from the event, please contact me. 
+
+- Currently I am still looking for volunteers to hold the space and for help with promotion. Please contact me.
 
 ## Signup [not mandatory]
 
 You can sign up to make a commitment for yourself and to help me out in the organizing process + receive last minute updates & aftercare. But there will be spots for the spontaneous and non-digital beings as well.
 
 [Google Forms Signup](https://forms.gle/iLz5yd4e5q82mBTb8)
+
+## Contact
+
+nielsevents@proton.me
+
+We can also talk through whatsapp or a phone call, in that case you can e-mail me for my phone number.
