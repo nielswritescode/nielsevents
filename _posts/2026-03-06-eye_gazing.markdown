@@ -49,7 +49,7 @@ Please read the entire page before you attend the event.
 
 This event is unconditionally given. That means it’s a gift to the world from me, and I have no expectation of reciprocity (If I do somehow, please contact me with your feedback.)
 
-That doesn’t mean I don’t welcome energy exchange. I’ll lovingly accept your gift of food, money or massage. Teach or lend me a skill, offer me to use your canoe during summer or whatever else you come up with 😇.
+That doesn’t mean I don’t welcome energy exchange. I’ll lovingly accept your gift of food or money. Perhaps you'd like to offer me a massage or sound healing. Teach or lend me a skill, offer me to use your canoe during summer or whatever else you come up with 😇. Currently I would be helped alot by someone who knows how to clean soot of a ceiling.
 
 The best way to offer energy exchange is is to send me an e-mail (and let me know if your offer extends to the spaceholders too).
 
@@ -65,18 +65,25 @@ And again. Please don't feel pressured to donate. I wish to invert the dynamic. 
 
 - The main space is non-verbal (excluding the hangout). There will be a small seperate room available where talking is allowed (although at a low volume). It is meant mostly as a space to ground yourself. If the non-verbal in combination with eyegazing starts feeling overwhelming and you would really benefit from having a small conversation to get back to reality. For this purpose, feel free to approach anyone sitting in the room or ask one of the spaceholders to be a listening ear for you. 
 
-Other exceptions to the non-verbal rule:
+    Exceptions to the non-verbal rule:
 
     - You had a deep session with someone and want to ask for verbal consent for a hug.
+
     - You have a practical question for me or the spaceholders.
 
-- This kind of event can be INTENSE. There will be a team of lovely spaceholders with different levels of experience in holding space who will be able to catch alot, but we are not professionals.
+    - This kind of event can be INTENSE. There will be a team of lovely spaceholders with different levels of experience in holding space who will be able to catch alot, but we are not professionals.
 We expect that you take care of your own boundaries and take responsibility for your own experience. 
 
-## Potluck Snacks
+## Potluck Snacks 
 Feel free to bring some snacks to the event to share. Something like grapes, nuts or chocolate usually do very well. 
 
-## Sign Up [not mandatory]
+## Mentions & Support
+
+- Do you have (in your network) a bigger amount(10+) of meditation cushions / yoga mats that could be used for the event (for free)? Please contact me. 
+
+- Additionally, if you would be willing to help transport these materials to and from the event, please contact me. 
+
+## Signup [not mandatory]
 
 You can sign up to make a commitment for yourself and to help me out in the organizing process + receive last minute updates & aftercare. But there will be spots for the spontaneous and non-digital beings as well.
 
