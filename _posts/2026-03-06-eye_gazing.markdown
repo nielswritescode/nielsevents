@@ -21,7 +21,7 @@ The event will be between **18.30 and 23.00** on the **6th of March 2026** at **
 
 Address: Zeeburgerdijk 265, 1095 AC Amsterdam
 
-Please read the entire page before you attend the event.
+It's helpful to read these details before you attend the event, but there will also be spaceholders at the door to explain the guidelines to you.
 
 ## Timetable
 
@@ -86,11 +86,13 @@ Feel free to bring some snacks to the event to share. Something like grapes, nut
 
 - Currently I am still looking for volunteers to hold the space and for help with promotion. Please contact me.
 
-## Signup [not mandatory]
+## Signup
 
-You can sign up to make a commitment for yourself and to help me out in the organizing process + receive last minute updates & aftercare. But there will be spots for the spontaneous and non-digital beings as well.
+Sign up to make a commitment for yourself and to help me out in the organizing process + receive last minute updates & aftercare. 
 
 [Google Forms Signup](https://forms.gle/iLz5yd4e5q82mBTb8)
+
+If you are courageous enough to live a spontaneous life without expectation you can also join without signing up :) This also applies to any friends you'd like to bring last minute.
 
 ## Contact
 
