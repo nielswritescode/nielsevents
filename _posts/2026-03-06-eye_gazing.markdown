@@ -97,7 +97,7 @@ Feel free to bring some snacks to the event to share. Something like grapes, nut
 
 - Additionally, if you would be willing to help transport these materials to and from the event, please contact me. 
 
-- Currently I am still looking for volunteers to hold the space and for help with promotion. Please contact me.
+- ~~Currently I am still looking for volunteers to hold the space and for help with promotion. Please contact me.D~~ We have enough!
 
 ## Signup
 
