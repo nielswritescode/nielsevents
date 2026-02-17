@@ -23,6 +23,19 @@ Address: Zeeburgerdijk 265, 1095 AC Amsterdam
 
 It's helpful to read these details before you attend the event, but there will also be spaceholders at the door to explain the guidelines to you.
 
+## Why eye-gazing?
+
+I think there can be many different reasons for wanting to attend an event such as this and I would like to avoid filling it in too much for you :) 
+
+But examples could be: 
+
+- You'd like to experiment with eye contact in a safe container to allow yourself to experience things you couldn't experience in a regular social situation.
+- You're just curious. 
+- You wanna just hangout and drink tea and observe others making eye contact. 
+- You're (scientifically) interested and want to get inspired. 
+- You want to enjoy deep connection meditation with others.
+- ... and many more! 
+
 ## Timetable
 
 - 18.30-21.30 Eye Gazing
