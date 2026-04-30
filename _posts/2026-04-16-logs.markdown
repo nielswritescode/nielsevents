@@ -1,0 +1,17 @@
+---
+title: "logs"
+layout: post
+date: 2026-03-25 11:30
+image: /assets/images/eye-contact.png
+headerImage: true
+tag:
+- connection
+category: blog
+#author: nielsvalent
+description: d
+hidden: true
+---
+
+- Sent couchers support an e-mail asking why my non-specific event was deleted given that there is such low engagement on the platform. 
+- Processed the response from couchers. It was very kind, and they seem to be quite clear on their policies. I will respect it and only promote on couchers for cases where I really think it's worth it. 
+
