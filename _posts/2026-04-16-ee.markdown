@@ -1,5 +1,5 @@
 ---
-title: "ee"
+title: "Energy exchange May 2026"
 layout: post
 date: 2026-03-25 11:30
 image: /assets/images/eye-contact.png
@@ -11,8 +11,6 @@ category: blog
 description: d
 hidden: true
 ---
-
-## Energy exchange May 2026
 
 Currently the concept of energy exchange (EE) seems to be quite limited. EE Options to participants attending events are usually limited to:
 

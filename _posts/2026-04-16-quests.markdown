@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Niels' personal quests [May '26]"
 layout: post
 date: 2026-03-25 11:30
 image: /assets/images/eye-contact.png
@@ -11,8 +11,6 @@ category: blog
 description: d
 hidden: true
 ---
-
-## Niels' personal quests [May '26]
 
 Hello traveller! These are the quests I need assistance with. Can you be of service?
 
