@@ -1,0 +1,29 @@
+---
+title: "unseen"
+layout: post
+date: 2026-03-25 11:30
+image: /assets/images/eye-contact.png
+headerImage: true
+tag:
+- connection
+category: blog
+#author: nielsvalent
+description: d
+hidden: true
+---
+
+What does it take to organize unconditional events? 
+
+- Sustainable promotion (Digital, interpersonal, on the street)
+- Networking 
+- Keeping up my own practice
+- Following facilitation trainings
+- Keeping up IT infrastructure
+- Dealing with no-shows / latecomers etc.
+- Integrate critical feedback
+- Bringing materials, snacks etc to events
+- A lot of relational work
+- Being available to others
+- and much more...
+
+Even a small event takes at least a couple of hours to organize. And that is disregarding the initial 1000?+ hours investment.
