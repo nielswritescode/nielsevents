@@ -12,18 +12,39 @@ description: d
 hidden: true
 ---
 
-What does it take to organize unconditional events? 
+What does it take to organize unconditional events? This is not an exhaustive list - it just gives an idea of the 'unseen' side of organizing for those who are not aware :)
 
-- Sustainable promotion (Digital, interpersonal, on the street)
-- Networking 
-- Keeping up my own practice
-- Following facilitation trainings
-- Keeping up IT infrastructure
-- Dealing with no-shows / latecomers etc.
-- Integrate critical feedback
-- Bringing materials, snacks etc to events
-- A lot of relational work
-- Being available to others
-- and much more...
+> It's my choice to host many different types of events (in order to align with what I currently need) which increases the amount of work (as opposed to just doing a regular event every week).
 
-Even a small event takes at least a couple of hours to organize. And that is disregarding the initial 1000?+ hours investment.
+- Promotion
+    - Creating sustainable promotion materials
+    - Creating specific event descriptions for communities (i.e. hipsy, couchers, workaway)
+    - Taking pictures (with consent)
+- Networking
+    - Maintaining relationships with local communities, facilitators, spaceholders.
+    - Volunteering at external events.
+- Practice
+    - Keeping up my own practice.
+    - Following and paying for facilitation trainings.
+- Integrity
+    - Regularly take time to contemplate the effect of my events on the world and people around me. 
+    - Be open to critical feedback.
+    - Answering questions.
+    - Meditate on and process things that happen in my spaces.
+- Practical
+    - Bringing tea & snacks.
+    - Creating & bringing materials and props to spaces.
+    - Setting up and tidying up spaces.
+- Consistency
+    - Dealing with no shows and latecomers.
+    - Maintaining flexibility while providing structure.
+- IT
+    - Upkeep of websites.
+    - Learning to code with Jekyll (as I don't pay for any tools I have to do it all myself)
+    - Managing forms, e-mail lists
+    - Spotify subscription & appropriate playlist creation
+- Support
+    - Provide aftercare. 
+    - Provide physical care & keep a radar out to ensure social safety. 
+
+Even a relatively small event usually takes at least a couple of hours to organize. 

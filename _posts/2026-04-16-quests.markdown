@@ -1,0 +1,23 @@
+---
+title: "Template"
+layout: post
+date: 2026-03-25 11:30
+image: /assets/images/eye-contact.png
+headerImage: true
+tag:
+- connection
+category: blog
+#author: nielsvalent
+description: d
+hidden: true
+---
+
+## Niels' personal quests [May '26]
+
+Hello traveller! These are the quests I need assistance with. Can you be of service?
+
+- Cleaning soot of my ceiling
+- I need my website's config.yml to be flexible in the main sections (currently "events" and "about") so I can add sections like "related events" and "side projects" on demand
+- I'm looking for a good out-of-society style psychotherapist.
+- I'm open to 6-12 month commitment community living / general housing offers in Amsterdam starting October '26.
+
