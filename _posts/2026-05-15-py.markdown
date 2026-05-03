@@ -2,7 +2,7 @@
 title: "Pleasure Yoga"
 layout: post
 date: 2026-05-15 10:45
-image: /assets/images/eye-contact.png
+image: /assets/images/pleasure-yoga-art.jpg
 headerImage: true
 tag:
 - connection
@@ -32,7 +32,7 @@ I give an intro to my practice and suggest other possible practices but you are 
 
 ## Where and when? 🗓️
 
-The event will be between **10.45 and 13.30** on **Friday 15th of May 2026** at **Common Ground Amsterdam**. 
+The event will be between **10.45 and 13.00** on **Friday 15th of May 2026** at **Common Ground Amsterdam**. 
 
 Address: Zeeburgerdijk 265, 1095 AC Amsterdam We meet outside
 
