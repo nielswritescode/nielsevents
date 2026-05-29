@@ -6,7 +6,7 @@ image: /assets/images/eye-contact.png
 headerImage: true
 tag:
 - connection
-category: blog
+category: events
 #author: nielsvalent
 description: d
 hidden: true

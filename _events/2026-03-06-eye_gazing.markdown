@@ -8,7 +8,7 @@ tag:
 - eyegazing
 - experiment
 - connection
-category: blog
+category: events
 #author: nielsvalent
 description: Eye Gazing Event
 ---

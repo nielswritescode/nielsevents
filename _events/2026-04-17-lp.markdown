@@ -8,7 +8,7 @@ tag:
 - listening
 - rejection
 - new people
-category: blog
+category: events
 #author: nielsvalent
 description: lp
 ---

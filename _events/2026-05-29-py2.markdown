@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - connection
 - yoga
-category: blog
+category: events
 #author: nielsvalent
 description: d
 ---

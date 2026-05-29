@@ -2,15 +2,43 @@
 layout: page
 title: Events
 ---
-<section class="list">
-    {% if site.events.size == 0 %}
-        <p class="text-center">Nothing published yet!</p>
-    {% else %}
-        {% assign sorted_events = site.events | sort: "date" | reverse %}
-        {% for post in sorted_events %}
-            {% if post.hidden != true %}
-                {% include blog-post.html %}
-            {% endif %}
-        {% endfor %}
-    {% endif %}
+<section class="list" id="events-list">
+	{% if site.events.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% else %}
+		{% assign sorted_events = site.events | sort: "date" | reverse %}
+		{% for post in sorted_events %}
+			{% if post.hidden != true %}
+				{% include blog-post.html %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
 </section>
+
+<div class="show-more-wrap">
+	<button id="show-more-btn" class="show-more-btn">show more</button>
+</div>
+
+<script>
+(function () {
+	var perPage = 5;
+	var shown = perPage;
+	var list = document.getElementById('events-list');
+	var btn = document.getElementById('show-more-btn');
+	var items = list ? Array.from(list.querySelectorAll('div.item')) : [];
+
+	function update() {
+		items.forEach(function (el, i) {
+			el.style.display = i < shown ? '' : 'none';
+		});
+		btn.style.display = shown < items.length ? 'inline-block' : 'none';
+	}
+
+	btn.addEventListener('click', function () {
+		shown += perPage;
+		update();
+	});
+
+	update();
+})();
+</script>

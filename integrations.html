@@ -1,0 +1,44 @@
+---
+layout: page
+title: Integrations
+---
+<section class="list" id="events-list">
+    {% if site.integrations.size == 0 %}
+        <p class="text-center">Nothing published yet!</p>
+    {% else %}
+        {% assign sorted_events = site.integrations | sort: "date" | reverse %}
+        {% for post in sorted_events %}
+            {% if post.hidden != true %}
+                {% include blog-post.html %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+</section>
+
+<div style="text-align: center; margin-top: 1rem;">
+	<button id="show-more-btn" style="display: none;">Show More</button>
+</div>
+
+<script>
+(function () {
+	var perPage = 5;
+	var shown = perPage;
+	var list = document.getElementById('events-list');
+	var btn = document.getElementById('show-more-btn');
+	var items = list ? Array.from(list.querySelectorAll('div.item')) : [];
+
+	function update() {
+		items.forEach(function (el, i) {
+			el.style.display = i < shown ? '' : 'none';
+		});
+		btn.style.display = shown < items.length ? '' : 'none';
+	}
+
+	btn.addEventListener('click', function () {
+		shown += perPage;
+		update();
+	});
+
+	update();
+})();
+</script>

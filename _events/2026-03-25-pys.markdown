@@ -11,7 +11,7 @@ tag:
 - sharing
 - listening
 - yoga
-category: blog
+category: events
 #author: nielsvalent
 description: pys
 ---

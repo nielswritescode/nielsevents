@@ -8,7 +8,7 @@ tag:
 - connection
 - experiment
 - authentic relating
-category: blog
+category: events
 #author: nielsvalent
 description: Relating
 ---

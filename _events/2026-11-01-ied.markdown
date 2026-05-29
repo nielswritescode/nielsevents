@@ -10,7 +10,7 @@ tag:
 - movement
 - sharing
 - listening
-category: blog
+category: events
 #author: nielsvalent
 description: IED
 ---

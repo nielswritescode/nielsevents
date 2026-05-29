@@ -67,13 +67,15 @@ future: true
 collections:
   events:
     output: true
+    permalink: /:title/
+  integrations:
+    output: true
 
 # if you don't need projects, comment the *projects* configs below
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -85,7 +87,7 @@ show-tags: true
 related: false
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [events]
 
 # show author block at the end of a post ?
 show-author: false
@@ -105,6 +107,12 @@ defaults:
   - scope:
       path: ""
       type: "events"
+    values:
+      layout: "post"
+      hidden: false
+  - scope:
+      path: ""
+      type: "integrations"
     values:
       layout: "post"
       hidden: false
@@ -132,3 +140,7 @@ exclude:
 
 feed:
   posts_limit: 5
+  disable_in_development: true
+  collections:
+    events:
+      path: "feed.xml"

@@ -8,7 +8,7 @@ tag:
 - connection
 - nature
 - somatics
-category: blog
+category: events
 #author: nielsvalent
 description: d
 ---

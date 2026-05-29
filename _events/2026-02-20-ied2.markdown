@@ -9,7 +9,7 @@ tag:
 - meditation
 - movement
 - sharing
-category: blog
+category: events
 #author: nielsvalent
 description: IED
 ---

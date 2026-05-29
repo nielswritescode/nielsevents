@@ -1,7 +1,8 @@
 .home,
 .blog,
 .projects,
-.events
+.events,
+.integrations
     margin-top: 125px
 
     > .list
@@ -27,7 +28,8 @@
 .home > .list,
 .blog > .list,
 .projects > .list,
-.events > .list
+.events > .list,
+.integrations > .list
     > .item
         display: block
         width: 95%
@@ -64,9 +66,46 @@
     .item:hover .url aside
         color: $alpha
 
+.show-more-wrap
+    position: relative
+    text-align: center
+    width: 95%
+    margin: 0 auto
+    border-top: 1px solid $epsilon
+
+    &:before
+        display: block
+        content: " "
+        width: 7px
+        height: 7px
+        border: $epsilon 1px solid
+        position: absolute
+        top: -5px
+        left: 50%
+        margin-left: -5px
+        background: $omega
+        box-shadow: $omega 0 0 0 5px
+        border-radius: 3px
+
+.show-more-btn
+    display: none
+    background: none
+    border: none
+    cursor: pointer
+    font-family: $fontSans
+    font-size: 1.4rem
+    font-weight: $thin-font
+    color: $gama
+    padding: 20px 10px
+    transition: color ease-in-out .2s
+
+    &:hover
+        color: $delta
+
 .blog > .list > .item > .url,
 .projects > .list > .item > .url,
-.events > .list > .item > .url
+.events > .list > .item > .url,
+.integrations > .list > .item > .url
     > .title
         display: inline
 
