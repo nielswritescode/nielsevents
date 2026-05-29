@@ -6,4 +6,7 @@ layout: page
 
 Hey! I'm Niels. Welcome to my garden :) 
 
+[My vlogs, music & standup](https://www.youtube.com/@journeyofniels)
+[My missing manual & other communications](https://nielswritescode.github.io/niels/)
+
 

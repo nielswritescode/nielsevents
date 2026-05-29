@@ -1,0 +1,16 @@
+---
+layout: page
+title: Events
+---
+<section class="list">
+    {% if site.events.size == 0 %}
+        <p class="text-center">Nothing published yet!</p>
+    {% else %}
+        {% assign sorted_events = site.events | sort: "date" | reverse %}
+        {% for post in sorted_events %}
+            {% if post.hidden != true %}
+                {% include blog-post.html %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+</section>

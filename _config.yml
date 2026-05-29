@@ -64,13 +64,16 @@ width: normal
 # some
 future: true
 
+collections:
+  events:
+    output: true
+
 # if you don't need projects, comment the *projects* configs below
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-events: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -99,6 +102,12 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "post"
+      hidden: false
 
 plugins:
   - jekyll-seo-tag
@@ -120,3 +129,6 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+
+feed:
+  posts_limit: 5

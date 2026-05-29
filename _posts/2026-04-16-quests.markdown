@@ -18,4 +18,4 @@ Hello traveller! These are the quests I need assistance with. Can you be of serv
 - I need my website's config.yml to be flexible in the main sections (currently "events" and "about") so I can add sections like "related events" and "side projects" on demand
 - I'm looking for a good out-of-society style psychotherapist.
 - I'm open to 6-12 month commitment community living / general housing offers in Amsterdam starting October '26.
-
+- I want to do silent retreats in nature by myself - if you know anyone to connect me who has a house near nature / place to put my tent would be very helpful. (wildcamping isn't safe enough to process my trauma / campgrounds tend to be expensive and there are still a lot of people around)
