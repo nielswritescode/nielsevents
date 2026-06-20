@@ -1,0 +1,164 @@
+---
+title: "Cgft2"
+layout: post
+date: 2026-06-20 12:00
+image: /assets/images/eye-contact.png
+headerImage: true
+tag:
+- connection
+category: events
+#author: nielsvalent
+description: d
+hidden: true
+---
+
+
+
+## Register your interest 
+
+I'm happy you made it here. Let's see if we can make it work!
+
+<div class="sf">
+  <div class="sf-group">
+    <label for="sf-name">Name</label>
+    <input type="text" id="sf-name" placeholder="Your name">
+  </div>
+  <div class="sf-group">
+    <label for="sf-phone">Phone number</label>
+    <input type="tel" id="sf-phone" placeholder="Your phone number">
+  </div>
+  <div class="sf-group">
+    <span class="sf-label">Are you okay with the sessions being recorded? <em>(Retroactive deletion is always possible.)</em></span>
+    <div class="sf-radios">
+      <label><input type="radio" name="sf-rec" value="Yes"> Yes</label>
+    </div>
+  </div>
+  <div class="sf-group">
+    <span class="sf-label">Would you be able to seriously commit to 3 / 4 sessions? <em>(You'll show up unless something serious gets in the way.) (Attending 3 sessions might be possible - we'd need to discuss it.)</em></span>
+    <div class="sf-radios">
+      <label><input type="radio" name="sf-commit" value="Yes"> Yes</label>
+    </div>
+  </div>
+  <div class="sf-group">
+    <span class="sf-label">Register your availability here! <em>(Let me know if there are any specific scheduling needs.)</em></span>
+    <a class="sf-w2m" href="https://www.when2meet.com/?37177003-jszN7" target="_blank" rel="noopener">when2meet →</a>
+    <textarea id="sf-sched" rows="2" placeholder="Specific scheduling needs (optional)"></textarea>
+  </div>
+  <div class="sf-group">
+    <span class="sf-label">Would you be able to help out with hosting sessions? <em>(You have access to a safe space where we can practice undisturbed, there's some tea and a toilet.)</em></span>
+    <textarea id="sf-host" rows="2" placeholder="Describe what you can offer (optional)"></textarea>
+  </div>
+  <div class="sf-group">
+    <label for="sf-questions">Any questions?</label>
+    <textarea id="sf-questions" rows="3" placeholder=""></textarea>
+  </div>
+  <div class="sf-buttons">
+    <button class="sf-copy sf-mailto" onclick="sfMailto()">Send by email</button>
+    <button class="sf-copy sf-secondary" onclick="sfCopy(this)">Copy</button>
+  </div>
+  <p class="sf-note">This doesn't send anything automatically — use <em>Send by email</em> to open your mail app with the answers pre-filled, or <em>Copy</em> and paste them into a message to me.</p>
+</div>
+
+<script>
+function sfValues() {
+  return {
+    name:      document.getElementById('sf-name').value,
+    phone:     document.getElementById('sf-phone').value,
+    rec:       (document.querySelector('input[name="sf-rec"]:checked') || {}).value || '',
+    commit:    (document.querySelector('input[name="sf-commit"]:checked') || {}).value || '',
+    sched:     document.getElementById('sf-sched').value,
+    host:      document.getElementById('sf-host').value,
+    questions: document.getElementById('sf-questions').value
+  };
+}
+function sfCopy(btn) {
+  function q(v) { return '"' + v.replace(/"/g, '""') + '"'; }
+  var v = sfValues();
+  var csv = [q(v.name), q(v.phone), q(v.rec), q(v.commit), q(v.sched), q(v.host), q(v.questions)].join(',');
+  navigator.clipboard.writeText(csv).then(function() {
+    btn.textContent = 'Copied!';
+    setTimeout(function() { btn.textContent = 'Copy'; }, 2000);
+  });
+}
+function sfMailto() {
+  var v = sfValues();
+  var body =
+    'Name: ' + v.name + '\n' +
+    'Phone: ' + v.phone + '\n' +
+    'OK with recording: ' + v.rec + '\n' +
+    'Can commit to 3/4 sessions: ' + v.commit + '\n' +
+    'Scheduling needs: ' + v.sched + '\n' +
+    'Hosting: ' + v.host + '\n' +
+    'Questions: ' + v.questions;
+  window.location.href = 'mailto:nielsevents@proton.me'
+    + '?subject=' + encodeURIComponent('Signup - ' + v.name)
+    + '&body=' + encodeURIComponent(body);
+}
+</script>
+
+<style>
+.sf { margin: 20px 0; }
+.sf-group { margin-bottom: 16px; }
+.sf-group > label, .sf-label {
+  display: block;
+  margin-bottom: 6px;
+  color: #222;
+  font-weight: 400;
+}
+.sf-label em {
+  font-size: 0.85em;
+  font-weight: 300;
+  color: #666;
+  font-style: normal;
+}
+.sf-group input[type="text"],
+.sf-group input[type="email"],
+.sf-group input[type="tel"],
+.sf-group textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 15px;
+  background: #ededed;
+  color: #222;
+  font-family: inherit;
+  resize: vertical;
+}
+.sf-w2m {
+  display: inline-block;
+  margin-bottom: 8px;
+}
+.sf-radios label {
+  display: inline-block;
+  margin-right: 20px;
+  font-weight: 300;
+  color: #666;
+}
+.sf-copy {
+  padding: 8px 20px;
+  background: #4b0082;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sf-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+.sf-secondary { background: transparent !important; color: #4b0082; border: 1px solid #4b0082; }
+.sf-note { margin-top: 10px; font-size: 0.85em; color: #666; font-weight: 300; }
+.sf-copy:hover { opacity: 0.85; }
+@media (prefers-color-scheme: dark) {
+  .sf-group > label, .sf-label { color: #ededed; }
+  .sf-label em { color: #aaa; }
+  .sf-group input[type="text"],
+  .sf-group input[type="email"],
+  .sf-group input[type="tel"],
+  .sf-group textarea { background: #222; color: #ededed; border-color: #444; }
+  .sf-radios label { color: #aaa; }
+  .sf-copy { background: #9300ff; }
+  .sf-secondary { color: #9300ff; border-color: #9300ff; }
+  .sf-note { color: #aaa; }
+}
+</style>
