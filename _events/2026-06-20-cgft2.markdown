@@ -14,7 +14,7 @@ hidden: true
 
 
 
-## Register your interest 
+## Register your interest
 
 I'm happy you made it here. Let's see if we can make it work!
 
