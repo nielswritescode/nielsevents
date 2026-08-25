@@ -1,7 +1,7 @@
 ---
 title: "Shared Leadership Workout"
 layout: post
-date: 2026-08-28 10:00
+date: 2026-08-28 15:00
 image: /assets/images/eye-contact.png
 headerImage: true
 tag:
@@ -29,7 +29,7 @@ Idea is that we can relax into following and getting external discipline to work
 
 ## Where and when? 🗓️
 
-**Friday — exact date & time TBD.** This page is a placeholder; the date above will be updated once confirmed.
+**Friday 28th of August 2026, 15.00–16.00.**
 
 Location: Bijlmer Barz 52°19'16.8"N 4°56'45.4"E
 
