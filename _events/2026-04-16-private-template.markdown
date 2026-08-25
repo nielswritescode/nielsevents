@@ -20,11 +20,13 @@ _Summary_
 
 **[Day] — exact date & time TBD.** This page is a placeholder; update the date above and this note once confirmed.
 
+Location: [exact location]
+
 ## Cost 💰
 
-## Signup ✋
+## RSVP ✋
 
-[Sign up](https://forms.gle/DV9Xfe4CfXkPnARg9) to guarantee your spot, receive last minute changes & info.
+Just show up. I will update the status at the top if I decide to cancel it.
 
 ## Practicalities 🧴
 
