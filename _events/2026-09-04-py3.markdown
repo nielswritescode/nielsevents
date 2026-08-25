@@ -10,6 +10,7 @@ tag:
 category: events
 #author: nielsvalent
 description: d
+status: happening
 ---
 
 _A held space for authentic unguided movement & relaxation, in connection._
