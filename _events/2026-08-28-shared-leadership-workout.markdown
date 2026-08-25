@@ -10,32 +10,33 @@ category: events
 #author: nielsvalent
 description: d
 hidden: true
+status: happening
 ---
 
-_Summary_
+_Shared leadership workout_
 
 ## The vibe 🌊
 ## The structure 🧑‍🏫
+
+We will alternate leading workout exercises (pushup, hanging competition, jumping jacks - you can be creative) for an hour or so. 
+
+There are 2 rules: 
+
+1. The current person leading practices providing clear leadership for the exercise and making a clear switch when they are done. This could include providng sets/reps, keeping track of time, encouraging other people. 
+2. You don't have to do anything the leader says. Do less sets / reps or change the exercise in a way that works for you. 
+
+Idea is that we can relax into following and getting external discipline to work out. And that we share the responsibility for creating this discipline. 
+
 ## Where and when? 🗓️
 
 **Friday — exact date & time TBD.** This page is a placeholder; the date above will be updated once confirmed.
 
-## Cost 💰
+Location: Bijlmer Barz 52°19'16.8"N 4°56'45.4"E
 
-## Signup ✋
+## RSVP ✋
 
-[Sign up](https://forms.gle/DV9Xfe4CfXkPnARg9) to guarantee your spot, receive last minute changes & info.
+Just show up. I will update the status at the top if I decide to cancel it. 
 
 ## Practicalities 🧴
 
-## Feedback 📒
-
-Your feedback helps me to shape the events that I organize. Thank you!
-
-[Google Forms Feedback](https://forms.gle/QJy4fZpwsstZXKAEA)
-
-## Contact ✉️
-
-Questions, suggestions, to say hello.
-
-nielsevents@proton.me
+Bring water. 
