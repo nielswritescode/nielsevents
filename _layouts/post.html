@@ -2,13 +2,6 @@
 layout: page
 ---
 
-{% if page.status %}
-    {% assign event_status = page.status | downcase %}
-    <div class="event-status event-status--{% if event_status == 'cancelled' %}cancelled{% else %}happening{% endif %}">
-        STATUS: {% if event_status == 'cancelled' %}Cancelled{% else %}It's happening{% endif %}
-    </div>
-{% endif %}
-
 {% if page.image and page.headerImage %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
@@ -25,6 +18,13 @@ layout: page
         {% for tag in page.tags %}
             <a class="item" href="{{ site.url }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
         {% endfor %}
+    </div>
+{% endif %}
+
+{% if page.status %}
+    {% assign event_status = page.status | downcase %}
+    <div class="event-status event-status--{% if event_status == 'cancelled' %}cancelled{% else %}happening{% endif %}">
+        STATUS: {% if event_status == 'cancelled' %}Cancelled{% else %}It's happening{% endif %}
     </div>
 {% endif %}
 
