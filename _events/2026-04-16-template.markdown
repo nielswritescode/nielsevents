@@ -8,11 +8,11 @@ tag:
 - connection
 category: events
 #author: nielsvalent
-description: d
-hidden: true
 # status: happening   -> shows a green "STATUS: It's happening" banner at the top
 # status: cancelled   -> shows a red "STATUS: Cancelled" banner at the top
 # omit `status` entirely for no banner
+description: d
+hidden: true
 ---
 
 _Summary_
