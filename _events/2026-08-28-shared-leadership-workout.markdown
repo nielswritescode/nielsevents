@@ -8,9 +8,9 @@ tag:
 - connection
 category: events
 #author: nielsvalent
-status: happening
 description: d
 hidden: true
+status: happening
 ---
 
 _Shared leadership workout_
