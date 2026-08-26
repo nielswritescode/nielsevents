@@ -16,6 +16,9 @@ status: happening
 _Shared leadership workout_
 
 ## The vibe 🌊
+
+Me and Ma/rk are going. I'm inviting some friends. 
+
 ## The structure 🧑‍🏫
 
 We will alternate leading workout exercises (pushup, hanging competition, jumping jacks - you can be creative) for an hour or so. 
