@@ -10,8 +10,9 @@ tag:
 category: events
 #author: nielsvalent
 description: d
-status: happening
 ---
+
+<iframe src="http://localhost:3000/embed/event/1" width="220" height="60" style="border:0;" title="Event status"></iframe>
 
 _A held space for authentic unguided movement & relaxation, in connection._
 
