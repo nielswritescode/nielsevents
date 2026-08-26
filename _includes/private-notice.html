@@ -1,0 +1,36 @@
+<div class="private-notice-overlay" id="private-notice-overlay">
+	<div class="private-notice-box">
+		<p>This is a private event. Please do not share it without permission.</p>
+		<button id="private-notice-ack" class="private-notice-btn">I understand</button>
+	</div>
+</div>
+
+<script>
+(function () {
+	var storageKey = 'private-notice-seen:' + window.location.pathname;
+	var seen;
+	try {
+		seen = localStorage.getItem(storageKey);
+	} catch (e) {
+		seen = null;
+	}
+	if (seen) {
+		return;
+	}
+
+	var overlay = document.getElementById('private-notice-overlay');
+	var ackBtn = document.getElementById('private-notice-ack');
+	if (!overlay || !ackBtn) {
+		return;
+	}
+
+	overlay.style.display = 'flex';
+
+	ackBtn.addEventListener('click', function () {
+		try {
+			localStorage.setItem(storageKey, '1');
+		} catch (e) {}
+		overlay.style.display = 'none';
+	});
+})();
+</script>

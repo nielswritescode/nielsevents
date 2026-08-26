@@ -2,6 +2,10 @@
 layout: page
 ---
 
+{% if page.hidden %}
+    {% include private-notice.html %}
+{% endif %}
+
 {% if page.image and page.headerImage %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
