@@ -10,9 +10,8 @@ tag:
 category: events
 #author: nielsvalent
 description: d
+status: cancelled
 ---
-
-<iframe src="https://nextjs-with-supabase-rho-eight-74.vercel.app/embed/event/1" width="220" height="60" style="border:0;" title="Event status"></iframe>
 
 _A held space for authentic unguided movement & relaxation, in connection._
 
